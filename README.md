@@ -10,6 +10,11 @@ This project demonstrates how to **predict diabetes risk** based on various heal
 - 🎯 **Goal** – develop an efficient and accurate diabetes prediction model while understanding the impact of feature selection and scaling
 
 ## 📊 Dataset
+
+[![Diabetes Prediction: Dataset](https://img.youtube.com/vi/4pV3wtKBk-g/0.jpg)](https://youtu.be/4pV3wtKBk-g)
+
+[Diabetes Prediction: Dataset](https://youtu.be/4pV3wtKBk-g) 
+
 The Diabetes Prediction dataset contains patient health measurements with the following key features:
 - Gender
 - Age
@@ -24,18 +29,33 @@ Each patient record has an associated diabetes status (0: No diabetes, 1: Diabet
 ## 🛠 Key Techniques Implemented
 
 1. **Data Exploration & Visualization**
+
+[![Diabetes Prediction: Data Exploration & Visualization](https://img.youtube.com/vi/icuEr5Drk3c/0.jpg)](https://youtu.be/icuEr5Drk3c)
+
+[Diabetes Prediction: Data Exploration & Visualization](https://youtu.be/icuEr5Drk3c)  
+
    - Distribution analysis of diabetes cases
    - Statistical summary of numerical features
    - Visualization of feature distributions by diabetes status
    - Correlation analysis between health metrics
 
 2. **Data Preprocessing**
+
+[![Diabetes Prediction: Data Preprocessing](https://img.youtube.com/vi/Ldnxw2msH2g/0.jpg)](https://youtu.be/Ldnxw2msH2g)
+
+[Diabetes Prediction: Data Preprocessing](https://youtu.be/Ldnxw2msH2g) 
+
    - Gender encoding
    - One-hot encoding for categorical variables (smoking history)
    - Missing value detection and handling
    - Data cleaning to ensure quality inputs for modeling
 
 3. **Feature Scaling Comparison**
+
+[![Diabetes Prediction: Feature Scaling](https://img.youtube.com/vi/EVavQobmKrs/0.jpg)](https://youtu.be/EVavQobmKrs)
+
+[Diabetes Prediction: Feature Scaling](https://youtu.be/EVavQobmKrs)  
+
    - StandardScaler (Z-score normalization)
    - MinMaxScaler (0-1 scaling)
    - RobustScaler (median and IQR based scaling)
