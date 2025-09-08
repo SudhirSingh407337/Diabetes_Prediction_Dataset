@@ -13,7 +13,7 @@ This project demonstrates how to **predict diabetes risk** based on various heal
 
 [![Diabetes Prediction: Dataset](https://img.youtube.com/vi/4pV3wtKBk-g/0.jpg)](https://youtu.be/4pV3wtKBk-g)
 
-[Diabetes Prediction: Dataset](https://youtu.be/4pV3wtKBk-g) 
+🎥 [Diabetes Prediction: Dataset](https://youtu.be/4pV3wtKBk-g) 🎥 
 
 The Diabetes Prediction dataset contains patient health measurements with the following key features:
 - Gender
@@ -32,7 +32,7 @@ Each patient record has an associated diabetes status (0: No diabetes, 1: Diabet
 
 [![Diabetes Prediction: Data Exploration & Visualization](https://img.youtube.com/vi/icuEr5Drk3c/0.jpg)](https://youtu.be/icuEr5Drk3c)
 
-[Diabetes Prediction: Data Exploration & Visualization](https://youtu.be/icuEr5Drk3c)  
+🎥 [Diabetes Prediction: Data Exploration & Visualization](https://youtu.be/icuEr5Drk3c) 🎥  
 
    - Distribution analysis of diabetes cases
    - Statistical summary of numerical features
@@ -43,7 +43,7 @@ Each patient record has an associated diabetes status (0: No diabetes, 1: Diabet
 
 [![Diabetes Prediction: Data Preprocessing](https://img.youtube.com/vi/Ldnxw2msH2g/0.jpg)](https://youtu.be/Ldnxw2msH2g)
 
-[Diabetes Prediction: Data Preprocessing](https://youtu.be/Ldnxw2msH2g) 
+🎥 [Diabetes Prediction: Data Preprocessing](https://youtu.be/Ldnxw2msH2g) 🎥  
 
    - Gender encoding
    - One-hot encoding for categorical variables (smoking history)
@@ -54,7 +54,7 @@ Each patient record has an associated diabetes status (0: No diabetes, 1: Diabet
 
 [![Diabetes Prediction: Feature Scaling](https://img.youtube.com/vi/EVavQobmKrs/0.jpg)](https://youtu.be/EVavQobmKrs)
 
-[Diabetes Prediction: Feature Scaling](https://youtu.be/EVavQobmKrs)  
+🎥 [Diabetes Prediction: Feature Scaling](https://youtu.be/EVavQobmKrs) 🎥  
 
    - StandardScaler (Z-score normalization)
    - MinMaxScaler (0-1 scaling)
