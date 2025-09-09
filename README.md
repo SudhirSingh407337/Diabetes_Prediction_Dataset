@@ -62,12 +62,22 @@ Each patient record has an associated diabetes status (0: No diabetes, 1: Diabet
    - Visual comparison of scaling impacts on feature distributions
    
 4. **Feature Selection Methods**
+
+[![Diabetes Prediction: Feature Selection Methods](https://img.youtube.com/vi/hcZV6UnpeEQ/0.jpg)](https://youtu.be/hcZV6UnpeEQ)
+
+🎥 [Diabetes Prediction: Feature Selection Methods](https://youtu.be/hcZV6UnpeEQ) 🎥 
+
    - Correlation Analysis: Measuring linear relationship between features and target
    - Variance Threshold: Removing low-variance features that provide little information
    - Statistical Tests (F-statistics): Identifying features with strong discriminatory power
    - Comparative analysis of selected features across methods
 
 5. **Model Training & Evaluation**
+
+[![Diabetes Prediction: Model Training & Evaluation](https://img.youtube.com/vi/WrBePAnmjYM/0.jpg)](https://youtu.be/WrBePAnmjYM)
+
+🎥 [Diabetes Prediction: Model Training & Evaluation](https://youtu.be/WrBePAnmjYM) 🎥  
+
    - Logistic Regression
    - Random Forest Classifier
    - Comprehensive metrics:
@@ -87,7 +97,7 @@ Key findings:
 - Both models struggled somewhat with recall for the diabetes class, with Random Forest performing better (69% vs 61%)
 
 ## 📦 Requirements
-- Python 3.x
+- Python 3
 - pandas
 - numpy
 - matplotlib
